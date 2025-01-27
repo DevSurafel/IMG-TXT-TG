@@ -1,12 +1,15 @@
+import os
 import asyncio
 from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.constants import ParseMode  # Updated import for newer versions
+from dotenv import load_dotenv
 
-# Replace with your bot's API token
-API_TOKEN = '7387753841:AAHM0LJNVD8dYrxh-jWhxCogr5onXgZay_E'
+# Load environment variables from the .env file
+load_dotenv()
 
-# Replace with the chat ID where you want to send the message
-CHAT_ID = '-1002033347065'
+# Fetch the bot token and chat ID from environment variables
+API_TOKEN = os.getenv('BOT_TOKEN')
+CHAT_ID = os.getenv('CHAT_ID')
 
 # Replace with the file path of the image
 IMAGE_PATH = 'tg.jpg'
