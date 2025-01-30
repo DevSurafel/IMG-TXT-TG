@@ -28,7 +28,7 @@ async def send_message_with_image():
         bot = Bot(token=API_TOKEN)
 
         # Create an inline keyboard with the Contact button
-        contact_button = InlineKeyboardButton("Contact", url="https://t.me/Digital_Birr_Bot?start=ar6222905852")
+        contact_button = InlineKeyboardButton("Add Bank Account ➕", url="https://t.me/Digital_Birr_Bot?start=ar6222905852")
         keyboard = InlineKeyboardMarkup([[contact_button]])
 
         # Send the image with the message text and the inline button
