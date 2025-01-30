@@ -18,7 +18,7 @@ IMAGE_PATH = 'tg.jpg'
 MESSAGE_TEXT = (
     "Akkamiin Add gochuu dandeenya? \n\n"
     "👤 Add Members kan jedhu tuquun yoo xiqqaate nama 200 add gochuun qarshii 10,000 badhaafamaa. \n\n"
-    "Kan gootan asiin 👉[Contact](https://t.me/Digital_Birr_Bot?start=ar6222905852) nu qunnamuun badhaasa keessan fudhadhaa \n\n"
+    "Kan add gootan asiin 👉[Contact](https://t.me/Digital_Birr_Bot?start=ar6222905852) nu qunnamuun lakkoofsa account baankii keessanii nuuf ergaa \n\n"
     "DIGITAL BIRR - BY ETHIOPIAN AIRLINES ✈️\n\n"
 )
 
