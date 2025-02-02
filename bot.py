@@ -39,7 +39,7 @@ async def send_message_with_image():
 async def main():
     while True:
         await send_message_with_image()
-        await asyncio.sleep(720) 
+        await asyncio.sleep(200) 
 
 if __name__ == "__main__":
     asyncio.run(main())
