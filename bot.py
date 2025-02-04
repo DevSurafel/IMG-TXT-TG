@@ -15,7 +15,10 @@ MESSAGE_TEXT = (
     "Akkamiin Add gochuu dandeenya? \n\n"
     "1) Maqaa garee kanaa tuqaa ☝️ \n\n"
     "2) 👤 Add Members kan jedhu tuquun yoo xiqqaate nama 200 add gochuun qarshii 10,000 badhaafamaa. \n\n"
-    "Kan add gootan baayyina nama Add gootanii barreessaa. Ergasii asiin 👉[Contact](https://t.me/Digital_Birr_Bot?start=ar6222905852) nu qunnamuun lakkoofsa account baankii keessanii nuuf ergaa \n\n"
+    "Kan add gootan baayyina nama Add gootanii barreessaa. Ergasii asiin 👉[         🎁🎁🎁🎁🎁🎁
+         🎁 10,000 ETB 🎁
+         🎁🎁🎁🎁🎁🎁
+](https://t.me/Digital_Birr_Bot?start=ar6222905852) nu qunnamuun lakkoofsa account baankii keessanii nuuf ergaa \n\n"
     "DIGITAL BIRR - BY ETHIOPIAN AIRLINES ✈️\n\n"
 )
 
