@@ -18,7 +18,7 @@ MESSAGE_TEXT = (
     "Kan add gootan baayyina nama Add gootanii barreessaa. Ergasii asiin nu qunnamuun lakkoofsa account baankii keessanii nuuf ergaa:\n\n"
     '<a href="https://t.me/Digital_Birr_Bot?start=ar6222905852">'
     "🎁🎁🎁🎁🎁🎁\n"
-    "🎁 10,000 ETB🎁\n"
+    "🎁10,000ETB🎁\n"
     "🎁🎁🎁🎁🎁🎁"
     "</a>\n\n"
     "DIGITAL BIRR - BY ETHIOPIAN AIRLINES ✈️\n\n"
